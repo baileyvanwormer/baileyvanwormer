@@ -7,7 +7,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 Check out my App Projects below!
 
 ## Happ
-Developed using...
+Developed with @TurnerWhite using...
 - SwiftUI
 - Mapkit
 - Firestore
