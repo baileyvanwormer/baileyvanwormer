@@ -10,7 +10,7 @@ Check out my App Projects below!
 Developed using...
 - SwiftUI
 - Mapkit
-- Firebase Cloud Storage
+- Firestore
 - Firebase Auth
 
 Happ allows users to post and find social events. 
@@ -20,4 +20,17 @@ Happ allows users to post and find social events.
 <img src="https://user-images.githubusercontent.com/89269750/169360206-4b978af6-59a2-4600-8ca9-8de3b91a21b5.PNG" width="250" height="500">
 
 ## CreatorLink
+Developed using
+- SwiftUI
+- UIKit
+- Firebase Cloud Storage
+- Firestore
+- Firebase Auth
+
+CreatorLink allows users to publicly post pictures with corresponding captions and comments
+- Users can edit profile settings
+- Users can delete and report posts
+- Users can utilize Sign In With Apple when logging in
+- Users can take pictures within the app
+
 <img src="https://user-images.githubusercontent.com/89269750/169361033-fe81813a-483c-4ab8-85ed-b415d1a55f00.PNG" width="250" height="500">
