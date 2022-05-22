@@ -7,11 +7,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 Check out my App Projects below!
 
 ## Happ
-Technologies used:
+Developed using...
 - SwiftUI
 - Mapkit
 - Firebase Cloud Storage
-- Firebase Auth.
+- Firebase Auth
+
 Happ allows users to post and find social events. 
 - Users can post event pins on the public map using an action sheet brought up by the "+" button in the bottom right corner 
 - Pins on the map are tappable and pull up event information.
