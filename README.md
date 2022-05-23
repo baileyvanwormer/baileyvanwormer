@@ -12,10 +12,12 @@ Developed with Turner White (@turner-white) using...
 - Mapkit
 - Firestore
 - Firebase Auth
+- MVVM Architecture
 
 Happ allows users to post and find social events. 
 - Users can post event pins on the public map using an action sheet brought up by the "+" button in the bottom right corner 
-- Pins on the map are tappable and pull up event information.
+- Pins on the map are tappable and pull up event information
+- Users can filter events based on categories in the SearchView
 
 <img src="https://user-images.githubusercontent.com/89269750/169360206-4b978af6-59a2-4600-8ca9-8de3b91a21b5.PNG" width="235" height="500">
 
@@ -26,6 +28,7 @@ Developed using
 - Firebase Cloud Storage
 - Firestore
 - Firebase Auth
+- MVVM Architecture
 
 CreatorLink allows users to publicly post pictures with corresponding captions and comments
 - Users can edit profile settings
