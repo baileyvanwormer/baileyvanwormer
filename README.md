@@ -33,4 +33,6 @@ CreatorLink allows users to publicly post pictures with corresponding captions a
 - Users can utilize Sign In With Apple when logging in
 - Users can take pictures within the app
 
-<img src="https://user-images.githubusercontent.com/89269750/169361033-fe81813a-483c-4ab8-85ed-b415d1a55f00.PNG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
