@@ -34,5 +34,5 @@ CreatorLink allows users to publicly post pictures with corresponding captions a
 - Users can take pictures within the app
 
 <img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
-<img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/89269750/169728090-38e59f44-e00b-4998-99ba-59ba0257cf04.PNG" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/89269750/169728083-4dc3f65a-a4be-4a6d-9737-3e42083ff539.PNG" width="250" height="500">
