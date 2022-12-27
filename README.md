@@ -1,6 +1,6 @@
 # Hey There, I'm Bailey 👋
 
-I am an iOS developer attending the University of North Carolina at Chapel Hill with a passion for app development, learning, and startups!
+I'm an aspiring Software Engineer attending the University of North Carolina at Chapel Hill with a passion for app development, learning, and startups!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 
