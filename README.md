@@ -26,6 +26,9 @@ Check out the App Team Carolina website for more information on Centible:
 - https://appteamcarolina.com/centible/
 - https://appteamcarolina.com
 
+## Delve
+*A music production tool designed to allow users to search up music theory and/or technical questions from within their DAW*
+
 ## Happ
 *A mock social media app allowing users to post and find social events*
 - Users can post event pins on the public map using an action sheet brought up by the "+" button in the bottom right corner 
