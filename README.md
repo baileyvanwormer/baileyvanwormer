@@ -7,6 +7,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 Check out some of the software projects I have been involved in below!
 
 ## Happ
+*A mock social media app allowing users to post and find social events*
+- Users can post event pins on the public map using an action sheet brought up by the "+" button in the bottom right corner 
+- Pins on the map are tappable and pull up event information
+- Users can filter events based on categories in the SearchView
+
 Developed with Turner White (@turner-white) using...
 - SwiftUI
 - Mapkit
@@ -14,14 +19,15 @@ Developed with Turner White (@turner-white) using...
 - Firebase Auth
 - MVVM Architecture
 
-Happ allows users to post and find social events. 
-- Users can post event pins on the public map using an action sheet brought up by the "+" button in the bottom right corner 
-- Pins on the map are tappable and pull up event information
-- Users can filter events based on categories in the SearchView
-
 <img src="https://user-images.githubusercontent.com/89269750/169360206-4b978af6-59a2-4600-8ca9-8de3b91a21b5.PNG" width="235" height="500">
 
 ## CreatorLink
+*A mock social media app allowing users to publicly post pictures with corresponding captions and comments*
+- Users can edit profile settings
+- Users can delete and report posts
+- Users can utilize Sign In With Apple when logging in
+- Users can take pictures within the app
+
 Developed using
 - SwiftUI
 - UIKit
@@ -29,12 +35,6 @@ Developed using
 - Firestore
 - Firebase Auth
 - MVVM Architecture
-
-CreatorLink allows users to publicly post pictures with corresponding captions and comments
-- Users can edit profile settings
-- Users can delete and report posts
-- Users can utilize Sign In With Apple when logging in
-- Users can take pictures within the app
 
 HomeView             |  ProfileView         |   SettingsView         | 
 :-------------------------:|:-------------------------:|:-------------------------:
