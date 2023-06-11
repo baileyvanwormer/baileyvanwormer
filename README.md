@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer attending the University of North Carolina at 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 
-Check out my App Projects below!
+Check out my Software Projects below!
 
 ## Happ
 Developed with Turner White (@turner-white) using...
