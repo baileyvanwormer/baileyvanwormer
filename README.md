@@ -12,10 +12,19 @@ Check out some of the software projects I have been involved in below!
 This project was developed through App Team Carolina and is available on the App Store: https://apps.apple.com/us/app/bubbly-cvi-literacy/id1616368300
 
 Check out articles written about the impact Bubbly has made in the community: 
-https://www.perkins.org/resource/bubbly-new-cvi-literacy-app/
-https://www.perkins.org/resource/bubbly-updates-cvi-literacy-app/
-https://sph.unc.edu/sph-news/a-bubbling-innovation-for-kids-with-visual-impairment/
-https://www.youtube.com/watch?v=IiPcA9tg5sU
+- https://www.perkins.org/resource/bubbly-new-cvi-literacy-app/
+- https://www.perkins.org/resource/bubbly-updates-cvi-literacy-app/
+- https://sph.unc.edu/sph-news/a-bubbling-innovation-for-kids-with-visual-impairment/
+- https://www.youtube.com/watch?v=IiPcA9tg5sU
+
+## Centible
+*A spending tracker iOS app designed with the goal of promoting financial awareness to college age individuals*
+
+This app was developed through App Team Carolina and will soon be availbale on the App Store (Fall 2023)
+
+Check out the App Team Carolina website for more information on Centible: 
+- https://appteamcarolina.com/centible/
+- https://appteamcarolina.com
 
 ## Happ
 *A mock social media app allowing users to post and find social events*
