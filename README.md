@@ -18,9 +18,9 @@ Check out articles written about the impact Bubbly has made in the community:
 - https://www.youtube.com/watch?v=IiPcA9tg5sU
 
 ## Centible
-*A spending tracker iOS app designed with the goal of promoting financial awareness to college age individuals*
+*A spending tracker iOS app designed with the goal of promoting financial awareness to college-age individuals*
 
-This app was developed through App Team Carolina and will soon be availbale on the App Store (Fall 2023)
+This app was developed through App Team Carolina and is available on the App Store: https://apps.apple.com/us/app/centible/id6443507950
 
 Check out the App Team Carolina website for more information on Centible: 
 - https://appteamcarolina.com/centible/
