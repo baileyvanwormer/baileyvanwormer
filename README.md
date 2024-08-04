@@ -1,6 +1,6 @@
 # Hey There, I'm Bailey 👋
 
-I'm an aspiring Software Engineer attending the University of North Carolina at Chapel Hill with a curiosity for Music Software Development, Financial Technology, and iOS Development!
+I'm a Software Engineer focused on Cybersecurity within the Financial Industry.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 
