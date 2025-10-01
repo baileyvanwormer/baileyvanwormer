@@ -1,6 +1,6 @@
 # Hey There, I'm Bailey 👋
 
-I'm a Software Engineer within the Financial Industry.
+I'm a Software Engineer that enjoys building new tools and products.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/baileyvanwormer/).
 
